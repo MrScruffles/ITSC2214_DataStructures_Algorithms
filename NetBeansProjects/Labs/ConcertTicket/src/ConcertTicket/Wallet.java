@@ -65,7 +65,7 @@ public class Wallet {
         if (this.size == 0) {
             return null;
         }
-        
+
         ConcertTicket lastAddedTicket = this.tickets[this.size - 1];
         this.tickets[this.size - 1] = null;
         this.size--;
