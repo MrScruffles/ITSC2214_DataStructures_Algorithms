@@ -1,18 +1,18 @@
-# ITSC1213_CS2
+# ITSC2214_DS&A
 
-Welcome to the ITSC1213_CS2 repository!
+Welcome to the ITSC2214_DS&A repository!
 
 ## Description
 
 This repository is a dedicated space for storing and showcasing the exciting labs and projects related to ITSC1213. Here, you'll find a treasure trove of coding assignments and creative projects that will help you explore the fascinating world of computer science.
 
-## Why Explore ITSC1213_CS2?
+## Why Explore ITSC2214_DS&A?
 
 - **A Hub for Learning**: This repository serves as a hub of knowledge where you can dive into a collection of labs and projects carefully crafted to enhance your understanding of ITSC1213 concepts.
 
 - **Discover Innovative Solutions**: Explore a variety of coding challenges and witness innovative solutions to complex problems. Gain inspiration and insights from fellow students' approaches.
 
-- **Collaborate and Connect**: ITSC1213_CS2 promotes collaboration and connects you with a vibrant community of like-minded individuals. Engage in discussions, share ideas, and learn from your peers.
+- **Collaborate and Connect**: ITSC2214_DS&A promotes collaboration and connects you with a vibrant community of like-minded individuals. Engage in discussions, share ideas, and learn from your peers.
 
 - **Track Your Progress**: With version control in place, you can easily track your progress throughout the course. Observe your growth, reflect on your accomplishments, and celebrate your achievements.
 
@@ -22,7 +22,7 @@ This repository is a dedicated space for storing and showcasing the exciting lab
 
 2. **Contribute and Collaborate**: Feel free to contribute your solutions, offer feedback, and engage in collaborative discussions. Share your insights and learn from others to foster a supportive learning environment.
 
-3. **Stay Connected**: Follow this repository to receive updates whenever new labs or projects are added. Stay connected with the ITSC1213_CS2 community to explore new ideas and keep your finger on the pulse of the latest developments.
+3. **Stay Connected**: Follow this repository to receive updates whenever new labs or projects are added. Stay connected with the ITSC2214_DS&A community to explore new ideas and keep your finger on the pulse of the latest developments.
 
 ## Get Involved!
 
